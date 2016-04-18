@@ -1,0 +1,39 @@
+<?xml tersion='1.0' encoding='UTF-8'?>
+<testsuites tests='26' failures='0'>
+  <testsuite name='MySuite1' tests='7' failures='3'>
+    <testcase classname='MySuite1' name='test_1' time='0.003'/>
+    <testcase classname='MySuite1' name='test_2' time='0.000'/>
+    <testcase classname='MySuite1' name='test_3' time='0.000'/>
+    <testcase classname='MySuite1' name='test_4' time='0.000'/>
+    <testcase classname='MySuite1' name='test_5' time='0.000'/>
+    <testcase classname='MySuite1' name='test_6' time='0.000'/>
+    <testcase classname='MySuite1' name='test_7' time='0.000'/>
+  </testsuite>
+  <testsuite name='MySuite2' tests='3' failures='0'>
+    <testcase classname='MySuite2' name='test_1' time='0.002'/>
+    <testcase classname='MySuite2' name='test_2' time='0.003'/>
+    <testcase classname='MySuite2' name='test_3' time='0.001'/>
+  </testsuite>
+  <testsuite name='MySuite3' tests='10' failures='0'>
+    <testcase classname='MySuite3' name='test_1' time='0.006'/>
+    <testcase classname='MySuite3' name='test_2' time='0.000'/>
+    <testcase classname='MySuite3' name='test_3' time='0.001'/>
+    <testcase classname='MySuite3' name='test_4' time='0.002'/>
+    <testcase classname='MySuite3' name='test_5' time='0.001'/>
+    <testcase classname='MySuite3' name='test_6' time='0.002'/>
+    <testcase classname='MySuite3' name='test_7' time='0.001'/>
+    <testcase classname='MySuite3' name='test_8' time='0.001'/>
+    <testcase classname='MySuite3' name='test_9' time='0.000'/>
+    <testcase classname='MySuite3' name='test_10' time='0.000'/>
+  </testsuite>
+  <testsuite name='MySuite4' tests='2' failures='0'>
+    <testcase classname='MySuite4' name='test_1' time='0.161'/>
+    <testcase classname='MySuite4' name='test_2' time='0.003'/>
+  </testsuite>
+  <testsuite name='MySuite5' tests='4' failures='0'>
+    <testcase classname='MySuite5' name='test_1' time='0.000'/>
+    <testcase classname='MySuite5' name='test_2' time='0.000'/>
+    <testcase classname='MySuite5' name='test_3' time='0.000'/>
+    <testcase classname='MySuite5' name='test_5' time='0.000'/>
+  </testsuite>
+</testsuites>

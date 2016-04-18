@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="5" failures="0">
+  <testsuite name="SuiteA" tests="2" failures="0">
+    <testcase classname="SuiteA" name="a_1" time="24.629"/>
+    <testcase classname="SuiteA" name="a_2" time="23.712"/>
+  </testsuite>
+  <testsuite name="SuiteB" tests="3" failures="0">
+    <testcase classname="SuiteB" name="b_1" time="19.571"/>
+    <testcase classname="SuiteB" name="b_2" time="18.082"/>
+    <testcase classname="SuiteB" name="b_3" time="19.657"/>
+  </testsuite>
+</testsuites>

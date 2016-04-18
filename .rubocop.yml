@@ -1,0 +1,9 @@
+AllCops:
+  Exclude:
+    - 'junit_model.gemspec'
+    - 'Guardfile'
+    - 'bin/console'
+    - 'bin/setup'
+    - 'Rakefile'
+    - 'lib/junit_model/xml.rb'
+    - 'lib/junit_model/version.rb'
