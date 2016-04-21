@@ -2,6 +2,8 @@
 
 A nicer way to interact with JUnit xml files.
 
+[![Build Status](https://travis-ci.org/iainsmith/junit_model.svg?branch=master)](https://travis-ci.org/iainsmith/junit_model)
+
 # Features
 
 * Merge multiple JUnit files.
