@@ -29,4 +29,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "terminal-notifier-guard"
   spec.add_development_dependency "pry-remote"
   spec.add_development_dependency "guard-rubocop"
+  spec.add_development_dependency "coveralls"
 end

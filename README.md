@@ -3,6 +3,7 @@
 A nicer way to interact with JUnit xml files.
 
 [![Build Status](https://travis-ci.org/iainsmith/junit_model.svg?branch=master)](https://travis-ci.org/iainsmith/junit_model)
+[![Coverage Status](https://coveralls.io/repos/github/iainsmith/junit_model/badge.svg?branch=master)](https://coveralls.io/github/iainsmith/junit_model?branch=master)
 
 # Features
 
