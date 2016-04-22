@@ -1,5 +1,6 @@
 module JunitModel
   module CLI
+    # Merge JUnit xml files from the command line
     class Merger
       def self.merge(options)
         path_a = options.files[0]

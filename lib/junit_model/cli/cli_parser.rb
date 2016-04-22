@@ -2,6 +2,7 @@ require 'optparse'
 
 module JunitModel
   module CLI
+    # The options to be used throughout the CLI Module
     class Options
       attr_accessor :files, :output_path
       def initialize
@@ -10,6 +11,7 @@ module JunitModel
       end
     end
 
+    # Parse CLI::Options from ARGV
     class Parser
       def self.parse(argv)
         options = Options.new
