@@ -46,7 +46,7 @@ module JunitModel
         classname: suite_a.name,
         tests: merged_test_cases.count.to_s,
         failures: failed_count.to_s,
-        test_cases: merged_test_cases
+        testcase: merged_test_cases
       )
     end
 

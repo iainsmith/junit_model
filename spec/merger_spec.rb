@@ -23,6 +23,9 @@ describe JunitModel::Merger do
         expect(subject.test_count).to eq 5
         expect(subject.failure_count).to eq 0
         expect(subject.test_suites.count).to eq 2
+        expect { subject.to_xml }.to_not raise_error
+        xml = subject.to_xml
+        expect(xml.length).to eq 531
       end
     end
 
